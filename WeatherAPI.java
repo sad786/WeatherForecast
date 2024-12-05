@@ -5,7 +5,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 public class WeatherAPI
 {
-    private static final String API_KEY = "5e5ec5f2f0a869a5a9d914db1fa39b72";
+    private static final String API_KEY = "API_KEY_WILL_BE_HERE";
     private static final String BASE_URL = "http://api.openweathermap.org/data/2.5/forecast";
 
     public String getForecast(String city)
